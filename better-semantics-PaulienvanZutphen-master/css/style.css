@@ -1,0 +1,8 @@
+html, body { margin: 0; padding: 0; }
+header { padding: 20px; height: 40px; background: pink; }
+footer { padding: 20px; height: 40px; background: purple; }
+main { background: silver; padding: 50px; }
+h1 { font-size: 50px; color: brown; margin-bottom: 20px; }
+h2 { font-size: 30px; color: brown; margin-bottom: 10px; }
+section { padding: 30px; width: 300px; border: 1px solid black; }
+strong { font-weight: bold; }
